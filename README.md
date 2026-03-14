@@ -1,21 +1,71 @@
-<h1 align="center">Hi 👋, I'm Jefferson</h1>
-<h3 align="center">A passionate web developer from The Philippines</h3>
+<div align="center">
+  <h1>Jefferson Guanzing</h1>
+  <code>backend developer · mid-level</code>
+  <p><em>Building reliable, scalable systems from the Philippines.</em><br>
+  Clean architecture, RESTful APIs, and real-time applications.</p>
 
-- 🌱 I’m currently learning **react**
+  ![Profile Views](https://komarev.com/ghpvc/?username=jeffersonguanzing&color=185FA5&style=flat-square)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://jeffersonguanzing.github.io/PortfolioFolio.github.io/](https://jeffersonguanzing.github.io/PortfolioFolio.github.io/)
+---
 
-- 📫 How to reach me **jefferson.b.guanzing@gmail.com**
+### About me
 
-<h3 align="left">Connect with me:</h3>
+Mid-level backend developer with 2+ years of professional experience. Currently at **TimeFree Innovations Inc.** building internal systems, and previously at **Simplified Business Consultancy** where I led full-stack PWA development using Blazor, .NET Core, and Azure.
+
+I specialize in **C# / .NET** ecosystem — building RESTful APIs, database models, real-time features with SignalR, and applying Clean Architecture and MVVM patterns.
+
+---
+
+### Experience
+
+- **Backend Developer (mid-level)** — TimeFree Innovations Inc. *(2025 – present)*
+- **Junior Developer** — Simplified Business Consultancy *(2023 – 2024)*
+
+---
+
+### Tech stack
+
+**Primary**
+`C#` `·` `.NET Core` `·` `Blazor` `·` `Entity Framework Core` `·` `SignalR` `·` `Azure`
+
+**Languages**
+`JavaScript` `·` `PHP` `·` `Java` `·` `C` `·` `Lua` `·` `Bash`
+
+**Frontend**
+`React` `·` `Node.js` `·` `Tailwind CSS` `·` `HTML/CSS`
+
+**Databases**
+`MS SQL Server` `·` `MySQL` `·` `SQLite`
+
+**Tools**
+`Git` `·` `Postman` `·` `Figma` `·` `GitHub` `·` `Notion`
+
+---
+
+### Projects
+
+**Ticketing System** — Backend for a request tracking system enabling efficient pull-out request resolution.
+
+**Centralized Communication Monitoring System** — Backend for a platform managing and monitoring communications with real-time coordination.
+
+---
+
+### Education & Certificates
+
+🎓 **BS Information Technology** — Bulacan State University *(2019–2023)*
+📜 Advanced Front-End Web Development — J.P. Morgan Bayan Academy
+📜 Intermediate Front-End Web Development — J.P. Morgan Bayan Academy
+
+---
+
+### GitHub stats
+
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonguanzing&show_icons=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonguanzing&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonguanzing&show_icons=true&locale=en&layout=compact" alt="jeffersonguanzing" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonguanzing&show_icons=true&locale=en" alt="jeffersonguanzing" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonguanzing&" alt="jeffersonguanzing" /></p>
+📫 **jefferson.b.guanzing@gmail.com** · [LinkedIn](https://linkedin.com/in/JeffersonGuanzing) · [Portfolio](https://jeffersonguanzing.github.io/PortfolioFolio.github.io/)
